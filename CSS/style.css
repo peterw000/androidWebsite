@@ -1,0 +1,17 @@
+body {
+background-image:url(../dark_wall.png);
+text-align:center;
+color:grey;
+}
+
+#container {
+	width: 1024 px;
+	margin: auto;
+}
+
+p.serif{font-family:"Times New Roman",Times,serif;color:7b8183;}
+p.sansserif{font-family:Arial,Helvetica,sans-serif;color:7b8183;}
+
+
+	
+</style>
